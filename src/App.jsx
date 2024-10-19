@@ -1,7 +1,5 @@
-import { useState } from 'react'
 import './App.css'
 import { ToDoList } from './ToDoList'
-import { FormTask } from './FormTask'
 
 function App() {
   return (
